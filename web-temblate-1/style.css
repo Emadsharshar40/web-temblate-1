@@ -1,0 +1,10 @@
+/* start main rulez */
+* {
+	box-sizing: border-box;
+}
+/* end main rulez */
+/*start style header */
+.header-of-page nav {
+	background-color: #252F31;
+}
+/*End style header */
